@@ -12,12 +12,13 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 GitHub Flavored Markdown is supported.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+```java
+@RequestMapping(value = "signInPage", method = RequestMethod.GET)
+	public String signInPage() {
+		logger.info("Sign In Page!");
+		
+		return "signIn";
+	}
 ```
 
 ## EasyBook Advanced Functions ##
@@ -52,7 +53,7 @@ Please visit [http://laobubu.net/donate.html](http://laobubu.net/donate.html)
 
 Not going to donate? That's okay. You can also send out your precious star [on GitHub][github-easybook].
 
-## And Here We Go ##
+And Here We Go
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 

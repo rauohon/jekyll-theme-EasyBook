@@ -1,5 +1,7 @@
 # jekyll-theme-EasyBook
 
+# test test test! #
+
 Another Jekyll Blog Theme "EasyBook"
 
 Start blogging with a simple but powerful theme.
