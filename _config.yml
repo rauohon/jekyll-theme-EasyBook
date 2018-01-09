@@ -1,16 +1,16 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+title: Rauohon saga
+url: "https://rauohon.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "/saga" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  공부하면서 남기는 블로그 입니다.
 
 # Your information
-email: your_email@example.com
-author: your_name
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+email: rnjdejr@gmail.com
+author: TAE HWY SHIN
+#avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+#profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 
